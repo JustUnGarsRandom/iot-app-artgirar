@@ -48,6 +48,6 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: wil42-playground
+            name: wil42-playground-service
             port:
               number: 8888
